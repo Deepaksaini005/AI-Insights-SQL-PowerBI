@@ -1,0 +1,6 @@
+model_id,model_name,provider,cost_per_1k_tokens
+1,GPT-4o,OpenAI,0.01
+2,Claude 3.5,Anthropic,0.012
+3,Gemini 1.5,Google,0.009
+4,Llama 3,Meta,0.005
+5,Mistral Large,Mistral,0.007

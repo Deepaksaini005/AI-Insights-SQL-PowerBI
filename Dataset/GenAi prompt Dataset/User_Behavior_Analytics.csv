@@ -1,0 +1,601 @@
+behavior_id,user_id,login_count,avg_session_duration_min,most_used_category,preferred_model,churn_risk
+1,109,55,56.29,Marketing,Llama 3,Medium
+2,46,192,89.6,Marketing,Llama 3,Medium
+3,135,50,2.49,SQL,Gemini 1.5,Low
+4,95,65,46.25,Coding,Mistral Large,Medium
+5,9,166,26.2,Content Writing,Llama 3,Low
+6,179,181,24.27,Data Analysis,GPT-4o,High
+7,8,184,83.63,Research,Llama 3,Medium
+8,45,122,67.99,Data Analysis,Mistral Large,Low
+9,10,95,4.54,Data Analysis,Claude 3.5,High
+10,189,46,78.64,Marketing,GPT-4o,Medium
+11,31,15,41.02,Data Analysis,GPT-4o,Medium
+12,25,140,26.42,Marketing,Mistral Large,High
+13,5,86,75.68,SQL,Claude 3.5,High
+14,185,94,47.44,Data Analysis,Llama 3,Medium
+15,171,172,7.41,Marketing,Mistral Large,Low
+16,187,69,9.39,Content Writing,GPT-4o,Medium
+17,156,51,62.61,Content Writing,Claude 3.5,High
+18,192,1,29.38,Research,Gemini 1.5,Low
+19,88,120,52.0,Data Analysis,GPT-4o,High
+20,119,23,12.23,Coding,Claude 3.5,High
+21,23,48,29.94,Data Analysis,GPT-4o,Low
+22,3,56,58.14,Content Writing,GPT-4o,High
+23,64,79,75.68,Data Analysis,Claude 3.5,High
+24,194,189,13.68,Coding,Llama 3,High
+25,74,46,26.55,Research,Gemini 1.5,Medium
+26,58,49,26.01,Marketing,Claude 3.5,Medium
+27,67,179,40.68,Coding,Llama 3,Medium
+28,149,94,32.7,Data Analysis,Mistral Large,Medium
+29,162,176,75.19,Coding,Mistral Large,Medium
+30,40,138,52.05,Data Analysis,Llama 3,Medium
+31,166,175,72.07,Marketing,Gemini 1.5,High
+32,129,142,75.03,SQL,GPT-4o,High
+33,198,54,24.72,Content Writing,Gemini 1.5,Low
+34,30,133,59.93,Marketing,Llama 3,Low
+35,120,151,30.42,Research,Llama 3,High
+36,151,9,30.37,Coding,Gemini 1.5,Low
+37,41,108,43.84,SQL,GPT-4o,Low
+38,92,79,16.32,Research,Claude 3.5,Low
+39,113,158,42.17,Research,Llama 3,High
+40,103,122,75.4,SQL,Gemini 1.5,High
+41,87,124,61.71,SQL,GPT-4o,Low
+42,196,130,11.49,Content Writing,Gemini 1.5,High
+43,103,152,4.51,Research,Claude 3.5,Medium
+44,153,179,84.97,Marketing,Mistral Large,Low
+45,34,170,31.32,Coding,GPT-4o,Medium
+46,197,37,72.53,Content Writing,Llama 3,Low
+47,118,1,59.96,Marketing,Claude 3.5,Medium
+48,79,21,18.24,Marketing,Llama 3,Low
+49,186,63,15.56,Research,Gemini 1.5,Low
+50,123,41,32.33,Content Writing,Mistral Large,High
+51,101,179,20.7,Content Writing,Llama 3,Medium
+52,181,63,69.15,Coding,Llama 3,Low
+53,82,196,84.3,Content Writing,Gemini 1.5,Medium
+54,173,187,78.8,Research,Llama 3,High
+55,19,89,44.97,Data Analysis,Mistral Large,Low
+56,57,156,17.68,Marketing,Gemini 1.5,Medium
+57,88,129,74.44,Research,Mistral Large,Medium
+58,20,166,22.25,Content Writing,Claude 3.5,Low
+59,55,78,40.32,SQL,Llama 3,High
+60,47,109,15.27,SQL,Llama 3,High
+61,124,9,24.97,Content Writing,Claude 3.5,Low
+62,102,175,47.53,Coding,Llama 3,Low
+63,89,176,66.48,Data Analysis,Llama 3,Low
+64,42,82,13.33,Research,Llama 3,High
+65,117,3,44.78,Data Analysis,Llama 3,Medium
+66,198,14,28.66,SQL,GPT-4o,High
+67,116,129,34.81,Content Writing,Gemini 1.5,High
+68,94,29,71.12,Content Writing,Mistral Large,Medium
+69,173,21,15.23,SQL,Mistral Large,Medium
+70,51,132,73.53,Data Analysis,Llama 3,Medium
+71,13,119,26.79,Coding,Llama 3,Medium
+72,94,13,80.25,Data Analysis,Gemini 1.5,Medium
+73,109,87,61.4,Coding,Mistral Large,Medium
+74,46,76,33.41,Coding,Llama 3,Medium
+75,77,163,5.13,Coding,Gemini 1.5,High
+76,10,137,67.0,Marketing,Claude 3.5,Low
+77,137,25,13.09,Marketing,Llama 3,Medium
+78,71,89,87.52,Data Analysis,Mistral Large,Low
+79,188,135,52.08,Coding,GPT-4o,Medium
+80,96,10,14.91,Data Analysis,GPT-4o,Medium
+81,132,186,8.93,Data Analysis,Gemini 1.5,Medium
+82,103,6,18.19,Data Analysis,Gemini 1.5,High
+83,168,191,79.7,Content Writing,GPT-4o,Low
+84,147,67,89.55,Research,Mistral Large,High
+85,63,178,72.31,SQL,Mistral Large,Medium
+86,56,195,84.32,SQL,Claude 3.5,Medium
+87,129,172,6.03,Content Writing,Claude 3.5,High
+88,73,70,2.44,Marketing,GPT-4o,Medium
+89,169,34,26.18,Content Writing,Mistral Large,High
+90,82,25,21.48,Coding,Gemini 1.5,Low
+91,17,157,27.33,Data Analysis,Mistral Large,Medium
+92,151,108,57.86,SQL,Mistral Large,Medium
+93,122,143,3.11,SQL,Gemini 1.5,Medium
+94,114,39,42.65,Data Analysis,Llama 3,Low
+95,137,179,16.96,Content Writing,Gemini 1.5,Medium
+96,9,170,77.0,Coding,Llama 3,High
+97,89,22,20.26,Research,Gemini 1.5,Medium
+98,75,193,29.75,Data Analysis,Llama 3,Low
+99,40,160,53.47,Research,Gemini 1.5,High
+100,111,107,89.63,Coding,Gemini 1.5,High
+101,191,126,89.09,Content Writing,Mistral Large,Low
+102,97,156,85.5,Coding,GPT-4o,Medium
+103,56,55,89.31,Research,Gemini 1.5,Low
+104,41,197,70.42,Data Analysis,Llama 3,High
+105,105,91,68.11,Content Writing,Mistral Large,Medium
+106,82,198,33.96,Coding,Gemini 1.5,High
+107,138,137,36.51,Content Writing,Llama 3,Medium
+108,74,116,15.81,Marketing,Llama 3,Medium
+109,1,137,75.03,Content Writing,Claude 3.5,High
+110,26,99,53.05,Content Writing,Llama 3,Medium
+111,49,163,4.56,Marketing,Claude 3.5,High
+112,159,129,89.9,Research,Mistral Large,High
+113,105,6,30.6,Marketing,Claude 3.5,High
+114,161,121,62.22,SQL,GPT-4o,High
+115,154,168,36.26,Research,Claude 3.5,Low
+116,118,95,65.63,Marketing,Claude 3.5,Medium
+117,183,52,30.4,SQL,GPT-4o,Low
+118,53,148,42.58,Marketing,Mistral Large,Medium
+119,62,46,87.61,Research,GPT-4o,High
+120,85,41,23.55,Data Analysis,GPT-4o,Low
+121,192,9,62.02,Content Writing,Mistral Large,Medium
+122,99,19,70.91,SQL,Mistral Large,Low
+123,184,199,55.41,Research,GPT-4o,Medium
+124,124,186,7.26,Content Writing,GPT-4o,Medium
+125,103,184,83.61,Data Analysis,Llama 3,Medium
+126,32,27,14.85,SQL,Mistral Large,Low
+127,185,44,34.25,Data Analysis,Gemini 1.5,Low
+128,63,124,20.49,Coding,Gemini 1.5,High
+129,178,19,42.33,Data Analysis,Llama 3,Low
+130,194,67,32.13,Data Analysis,Llama 3,Medium
+131,116,180,24.7,SQL,Mistral Large,Low
+132,195,36,15.03,SQL,GPT-4o,Low
+133,95,145,33.92,SQL,Gemini 1.5,High
+134,41,146,57.78,Content Writing,Llama 3,High
+135,76,40,67.45,Data Analysis,Claude 3.5,Low
+136,156,75,77.6,SQL,Claude 3.5,Low
+137,55,150,28.66,Research,GPT-4o,Medium
+138,94,185,46.76,Research,Llama 3,Medium
+139,159,44,87.57,Data Analysis,Claude 3.5,High
+140,129,81,48.05,Content Writing,Llama 3,High
+141,44,135,44.42,Content Writing,Llama 3,Low
+142,172,17,32.13,SQL,Claude 3.5,Low
+143,39,72,55.56,Data Analysis,GPT-4o,High
+144,51,92,45.89,Research,GPT-4o,High
+145,135,59,67.24,SQL,GPT-4o,Medium
+146,161,26,85.78,Research,GPT-4o,Medium
+147,142,137,76.5,Research,GPT-4o,Low
+148,115,146,48.02,Marketing,Gemini 1.5,High
+149,47,177,84.4,Marketing,Claude 3.5,High
+150,184,117,17.61,Research,Gemini 1.5,High
+151,72,24,67.39,Data Analysis,GPT-4o,Low
+152,134,78,7.36,Marketing,Claude 3.5,High
+153,195,149,44.0,Coding,Mistral Large,Low
+154,82,163,8.43,Content Writing,GPT-4o,Medium
+155,22,122,19.37,Research,Mistral Large,Low
+156,154,125,28.4,Coding,Mistral Large,Medium
+157,29,185,80.01,Data Analysis,Claude 3.5,High
+158,163,158,68.49,Coding,Gemini 1.5,Medium
+159,154,70,45.35,Marketing,Gemini 1.5,High
+160,124,132,26.97,Data Analysis,Gemini 1.5,Medium
+161,137,64,32.02,Data Analysis,Mistral Large,High
+162,80,161,40.72,Marketing,Llama 3,Low
+163,82,131,43.4,Marketing,Claude 3.5,Low
+164,195,111,61.22,Coding,Llama 3,Medium
+165,164,176,49.4,Marketing,Claude 3.5,Low
+166,196,60,20.76,Research,Gemini 1.5,Medium
+167,197,136,43.53,Data Analysis,Gemini 1.5,High
+168,54,147,61.13,SQL,Claude 3.5,Low
+169,197,102,71.15,Marketing,Mistral Large,High
+170,41,84,86.19,Content Writing,Mistral Large,Medium
+171,200,186,25.71,SQL,Llama 3,Medium
+172,95,38,28.95,Data Analysis,Gemini 1.5,High
+173,81,116,29.11,Research,Llama 3,Medium
+174,2,196,84.72,Coding,Llama 3,Medium
+175,166,36,87.8,SQL,GPT-4o,High
+176,52,54,60.26,SQL,Gemini 1.5,Medium
+177,7,83,39.62,Content Writing,Gemini 1.5,High
+178,144,190,19.55,Marketing,Mistral Large,High
+179,113,71,11.4,Marketing,Claude 3.5,Medium
+180,186,123,84.85,Research,Llama 3,Low
+181,200,169,36.33,Data Analysis,Llama 3,Low
+182,72,156,53.58,Coding,GPT-4o,Low
+183,164,88,26.29,SQL,Llama 3,Medium
+184,29,121,13.82,Data Analysis,GPT-4o,Medium
+185,199,188,38.41,Marketing,Claude 3.5,High
+186,77,147,19.6,Coding,Llama 3,Low
+187,84,147,50.1,Data Analysis,Gemini 1.5,High
+188,136,75,62.68,Marketing,GPT-4o,High
+189,183,190,29.63,SQL,Llama 3,High
+190,55,48,30.27,Marketing,Llama 3,Medium
+191,86,51,61.63,Data Analysis,Gemini 1.5,Medium
+192,155,192,84.08,Marketing,GPT-4o,High
+193,106,110,36.88,Content Writing,GPT-4o,High
+194,16,132,34.87,Research,Llama 3,Low
+195,130,84,71.53,Content Writing,Gemini 1.5,High
+196,86,163,7.91,Coding,Mistral Large,Low
+197,143,200,11.89,Marketing,Mistral Large,Low
+198,147,120,55.68,Marketing,GPT-4o,High
+199,111,71,42.98,Data Analysis,Claude 3.5,High
+200,85,19,17.99,Research,Gemini 1.5,Medium
+201,136,200,62.95,Content Writing,GPT-4o,Medium
+202,148,76,2.56,Content Writing,GPT-4o,Low
+203,58,83,39.59,SQL,Claude 3.5,High
+204,173,197,30.74,Content Writing,Claude 3.5,High
+205,91,184,78.32,Marketing,Claude 3.5,Low
+206,53,79,17.98,Coding,Mistral Large,High
+207,11,200,13.2,SQL,GPT-4o,Medium
+208,81,59,59.92,Marketing,Gemini 1.5,Low
+209,109,70,22.5,Marketing,Gemini 1.5,Low
+210,36,113,12.83,Content Writing,GPT-4o,Medium
+211,191,190,20.36,Coding,Llama 3,Medium
+212,103,51,20.1,Content Writing,Mistral Large,Low
+213,24,45,46.59,Research,Mistral Large,Low
+214,42,194,20.45,Content Writing,Mistral Large,Medium
+215,192,82,38.53,Marketing,GPT-4o,High
+216,93,123,24.47,Coding,Llama 3,Low
+217,2,98,72.7,Content Writing,GPT-4o,Medium
+218,93,80,75.62,Content Writing,Gemini 1.5,Low
+219,180,22,59.24,Content Writing,Llama 3,Low
+220,71,187,58.97,SQL,GPT-4o,Low
+221,64,46,51.68,Marketing,Mistral Large,Low
+222,36,178,43.34,Coding,GPT-4o,High
+223,54,190,60.16,SQL,Mistral Large,Medium
+224,41,108,17.17,Research,Claude 3.5,High
+225,172,47,34.13,Coding,Claude 3.5,Low
+226,128,53,28.93,Data Analysis,Gemini 1.5,Medium
+227,160,83,4.51,Coding,Gemini 1.5,Low
+228,121,9,66.68,Marketing,Llama 3,Low
+229,139,97,69.1,Data Analysis,Mistral Large,Low
+230,41,26,3.31,Marketing,GPT-4o,Medium
+231,17,29,87.25,Content Writing,Llama 3,High
+232,113,35,77.41,Data Analysis,GPT-4o,Medium
+233,122,121,81.16,SQL,Claude 3.5,Medium
+234,169,139,34.17,Research,GPT-4o,Medium
+235,127,192,75.14,Research,Claude 3.5,Low
+236,57,132,13.42,Marketing,Claude 3.5,High
+237,22,191,10.34,Content Writing,Gemini 1.5,High
+238,27,64,21.91,Marketing,Gemini 1.5,Medium
+239,182,119,60.82,Research,Mistral Large,High
+240,69,195,81.16,SQL,Llama 3,Medium
+241,170,38,52.98,Coding,Llama 3,High
+242,13,51,88.2,Coding,Claude 3.5,High
+243,9,61,16.25,SQL,GPT-4o,High
+244,124,124,77.48,Marketing,Mistral Large,Medium
+245,116,55,41.88,SQL,Mistral Large,Medium
+246,31,191,26.58,Research,Gemini 1.5,Medium
+247,48,66,32.01,Content Writing,Mistral Large,Medium
+248,170,25,60.79,SQL,Mistral Large,Medium
+249,17,94,39.53,Coding,Mistral Large,Low
+250,25,59,87.81,Coding,GPT-4o,High
+251,183,76,13.11,SQL,Gemini 1.5,Medium
+252,112,142,88.62,Coding,Mistral Large,Low
+253,102,131,19.15,Data Analysis,Claude 3.5,Low
+254,51,188,67.52,Research,Mistral Large,Low
+255,145,136,48.2,Research,Gemini 1.5,High
+256,59,178,85.35,Research,Claude 3.5,Medium
+257,41,26,61.87,Data Analysis,Mistral Large,Low
+258,193,184,15.38,Research,Llama 3,Low
+259,72,13,86.4,Content Writing,Gemini 1.5,Medium
+260,134,108,80.65,Content Writing,Gemini 1.5,Low
+261,185,77,2.03,SQL,Mistral Large,High
+262,80,54,83.23,Research,Mistral Large,Low
+263,16,194,38.11,Marketing,Llama 3,Low
+264,196,63,36.43,Marketing,Llama 3,Medium
+265,152,50,23.87,SQL,GPT-4o,Low
+266,71,36,80.55,Coding,Mistral Large,High
+267,39,53,41.02,Data Analysis,Gemini 1.5,Medium
+268,3,164,12.32,SQL,Mistral Large,Low
+269,198,161,54.66,Marketing,Llama 3,Medium
+270,32,139,67.38,Content Writing,Claude 3.5,Low
+271,194,185,32.04,SQL,GPT-4o,Medium
+272,66,29,57.17,Content Writing,Mistral Large,Low
+273,182,178,78.16,Content Writing,Gemini 1.5,Low
+274,134,27,9.79,Data Analysis,Mistral Large,High
+275,93,62,78.5,Data Analysis,Llama 3,High
+276,111,108,6.99,Coding,Gemini 1.5,High
+277,188,71,81.62,Data Analysis,Mistral Large,Medium
+278,108,171,75.59,SQL,GPT-4o,Low
+279,26,183,72.93,Marketing,Mistral Large,Medium
+280,57,152,40.17,SQL,GPT-4o,High
+281,125,144,55.38,Research,Llama 3,High
+282,133,171,35.67,Research,GPT-4o,High
+283,165,26,52.66,Coding,Claude 3.5,Medium
+284,149,173,64.42,Research,Llama 3,Medium
+285,184,191,5.51,Data Analysis,Llama 3,Medium
+286,147,134,5.28,Content Writing,Llama 3,High
+287,7,56,51.89,Coding,Gemini 1.5,Low
+288,75,106,72.57,Data Analysis,Llama 3,Medium
+289,92,175,32.28,Marketing,Gemini 1.5,Medium
+290,13,84,42.32,Data Analysis,Gemini 1.5,Low
+291,54,143,69.83,Research,Gemini 1.5,High
+292,103,193,32.67,Marketing,Llama 3,Low
+293,86,91,56.24,Data Analysis,Claude 3.5,Medium
+294,79,26,82.45,Coding,Llama 3,Medium
+295,160,128,58.27,Content Writing,Claude 3.5,Medium
+296,182,125,32.85,Content Writing,Gemini 1.5,Low
+297,44,83,3.4,Marketing,Mistral Large,Medium
+298,130,180,58.52,SQL,Mistral Large,High
+299,46,102,56.43,Coding,Claude 3.5,Low
+300,24,183,54.62,Data Analysis,Llama 3,Medium
+301,38,184,31.93,SQL,Llama 3,Low
+302,99,27,76.36,Data Analysis,Gemini 1.5,High
+303,146,22,30.5,Marketing,Llama 3,Low
+304,63,141,15.64,SQL,GPT-4o,Medium
+305,58,178,88.53,Marketing,Claude 3.5,Medium
+306,166,56,14.79,SQL,Claude 3.5,Low
+307,157,124,75.74,Content Writing,Mistral Large,High
+308,146,50,38.28,Research,Mistral Large,Medium
+309,161,148,80.2,Content Writing,Gemini 1.5,High
+310,94,68,39.96,SQL,Claude 3.5,Medium
+311,139,92,8.78,Data Analysis,Claude 3.5,Medium
+312,180,64,72.01,Research,Claude 3.5,Low
+313,130,182,43.86,SQL,GPT-4o,High
+314,59,185,32.65,Data Analysis,Mistral Large,Low
+315,120,69,52.53,Coding,Llama 3,High
+316,113,128,54.01,Coding,Claude 3.5,Low
+317,144,115,51.19,Coding,Gemini 1.5,Medium
+318,181,38,7.61,SQL,GPT-4o,High
+319,71,146,24.18,Data Analysis,GPT-4o,High
+320,154,126,39.91,Marketing,Llama 3,Low
+321,170,116,29.26,Data Analysis,Gemini 1.5,Medium
+322,60,146,72.26,Research,Llama 3,Low
+323,197,139,88.26,Research,Gemini 1.5,Low
+324,157,14,64.67,SQL,Mistral Large,Low
+325,199,19,56.02,Research,Llama 3,High
+326,42,188,19.13,Research,Claude 3.5,Low
+327,8,167,83.74,Data Analysis,GPT-4o,Medium
+328,23,25,85.26,Research,Llama 3,Medium
+329,98,179,43.75,SQL,Claude 3.5,Low
+330,80,91,17.61,Content Writing,Gemini 1.5,Medium
+331,24,48,24.92,Marketing,Claude 3.5,Medium
+332,166,163,9.18,Content Writing,GPT-4o,High
+333,66,6,79.38,Coding,Mistral Large,Low
+334,175,96,10.4,Coding,Mistral Large,Low
+335,2,84,35.86,Coding,Mistral Large,High
+336,96,18,86.1,Marketing,Mistral Large,Medium
+337,47,138,21.22,SQL,GPT-4o,High
+338,40,154,34.93,Marketing,Llama 3,High
+339,198,46,46.64,Content Writing,GPT-4o,High
+340,10,138,80.16,Coding,Gemini 1.5,Medium
+341,28,90,62.11,Research,Mistral Large,Low
+342,26,128,19.0,Marketing,Mistral Large,Medium
+343,117,169,50.22,Content Writing,Llama 3,Low
+344,172,142,7.76,Marketing,Gemini 1.5,Low
+345,62,126,18.57,Content Writing,GPT-4o,Medium
+346,16,123,73.36,Data Analysis,Mistral Large,Low
+347,134,24,60.39,SQL,Mistral Large,High
+348,148,180,48.81,Content Writing,Mistral Large,High
+349,52,73,30.19,Content Writing,Claude 3.5,Medium
+350,161,110,37.57,Content Writing,GPT-4o,Medium
+351,7,126,11.18,Research,Llama 3,High
+352,100,79,45.79,SQL,GPT-4o,High
+353,11,49,85.32,SQL,Mistral Large,High
+354,147,139,17.26,SQL,GPT-4o,High
+355,8,13,87.08,Content Writing,Claude 3.5,Medium
+356,138,14,74.49,Data Analysis,Llama 3,High
+357,131,135,76.73,Research,Gemini 1.5,High
+358,179,12,82.14,Coding,Llama 3,Low
+359,57,183,30.19,Data Analysis,Claude 3.5,Medium
+360,53,147,58.36,Coding,GPT-4o,Medium
+361,53,177,12.24,SQL,GPT-4o,Low
+362,169,85,88.63,Content Writing,Claude 3.5,Medium
+363,103,12,15.72,Research,Claude 3.5,High
+364,172,67,79.61,Content Writing,Mistral Large,High
+365,161,80,20.03,Data Analysis,Gemini 1.5,Medium
+366,177,3,38.6,Content Writing,Llama 3,Medium
+367,49,200,44.96,Research,GPT-4o,High
+368,178,102,5.68,Content Writing,Claude 3.5,High
+369,177,58,8.21,Coding,GPT-4o,Low
+370,126,18,18.14,SQL,Claude 3.5,High
+371,66,175,64.92,Data Analysis,Llama 3,Medium
+372,138,74,27.05,Research,Gemini 1.5,Low
+373,195,31,36.75,Marketing,GPT-4o,High
+374,128,52,13.19,Coding,Llama 3,Medium
+375,28,29,22.12,Content Writing,Claude 3.5,Low
+376,196,178,72.96,Marketing,Llama 3,High
+377,95,113,66.97,Content Writing,Mistral Large,Low
+378,170,129,69.48,Marketing,Claude 3.5,High
+379,82,12,52.05,Marketing,Gemini 1.5,Medium
+380,45,90,42.66,Data Analysis,GPT-4o,Medium
+381,98,40,85.32,Research,GPT-4o,Low
+382,48,161,19.1,Data Analysis,Llama 3,Low
+383,113,18,76.22,Research,Mistral Large,Medium
+384,143,42,14.62,SQL,GPT-4o,Low
+385,176,17,38.07,Research,GPT-4o,High
+386,185,44,65.72,SQL,Gemini 1.5,Low
+387,37,27,62.22,Coding,Llama 3,Low
+388,145,15,73.61,Research,GPT-4o,Low
+389,196,161,5.1,Research,GPT-4o,Low
+390,167,122,84.47,Data Analysis,Llama 3,Medium
+391,176,158,36.04,Data Analysis,Claude 3.5,High
+392,126,157,24.0,Data Analysis,Llama 3,Medium
+393,40,117,49.21,SQL,Claude 3.5,Low
+394,74,164,66.33,Content Writing,Gemini 1.5,Low
+395,95,190,3.84,SQL,Claude 3.5,Low
+396,118,106,64.54,Research,Claude 3.5,Medium
+397,33,161,33.06,Content Writing,Llama 3,Medium
+398,118,188,41.8,Content Writing,Llama 3,Medium
+399,87,84,60.55,Marketing,Mistral Large,Low
+400,63,56,64.71,Research,Claude 3.5,High
+401,169,159,33.98,Content Writing,Mistral Large,Medium
+402,96,165,29.01,Content Writing,Claude 3.5,Medium
+403,28,139,59.4,SQL,Mistral Large,Medium
+404,14,52,21.11,Research,Claude 3.5,High
+405,99,133,40.0,Content Writing,GPT-4o,High
+406,53,99,51.93,Marketing,Gemini 1.5,High
+407,175,145,69.69,Data Analysis,Llama 3,High
+408,51,39,38.19,Content Writing,Claude 3.5,High
+409,34,196,83.95,SQL,Mistral Large,High
+410,136,189,57.27,Coding,GPT-4o,Low
+411,22,6,2.76,Coding,Gemini 1.5,Low
+412,81,92,19.86,Marketing,Claude 3.5,Medium
+413,17,93,56.84,SQL,Mistral Large,Medium
+414,122,87,63.92,SQL,Gemini 1.5,Low
+415,144,41,81.27,Marketing,Claude 3.5,Medium
+416,31,137,82.1,Content Writing,Claude 3.5,High
+417,142,161,43.32,SQL,Claude 3.5,Low
+418,170,38,82.01,Coding,GPT-4o,Low
+419,98,122,35.38,Marketing,GPT-4o,High
+420,177,93,83.92,Research,Mistral Large,Low
+421,115,6,87.39,Data Analysis,Mistral Large,Medium
+422,87,22,80.01,Coding,Claude 3.5,Low
+423,160,77,61.61,Marketing,GPT-4o,High
+424,51,163,30.22,Data Analysis,GPT-4o,Medium
+425,155,127,3.4,Research,Llama 3,Low
+426,94,65,18.9,SQL,Mistral Large,Low
+427,126,82,81.71,Coding,Claude 3.5,High
+428,79,68,41.51,Content Writing,Gemini 1.5,Low
+429,70,192,89.57,Data Analysis,Llama 3,High
+430,21,86,50.51,Marketing,Mistral Large,Low
+431,189,147,3.69,Content Writing,Claude 3.5,Medium
+432,98,100,5.17,Data Analysis,Gemini 1.5,High
+433,97,86,34.28,Research,Llama 3,Medium
+434,182,88,13.65,SQL,Gemini 1.5,High
+435,50,126,26.78,Coding,Llama 3,High
+436,22,171,82.37,Research,GPT-4o,Low
+437,33,196,11.42,Coding,Claude 3.5,Medium
+438,17,40,52.33,Marketing,GPT-4o,Low
+439,3,186,3.18,SQL,Mistral Large,Low
+440,40,150,57.1,Content Writing,Gemini 1.5,High
+441,28,157,12.73,Data Analysis,Claude 3.5,Low
+442,191,21,18.33,Data Analysis,GPT-4o,Low
+443,111,176,22.51,Coding,GPT-4o,Medium
+444,83,161,48.58,Content Writing,Claude 3.5,High
+445,127,155,64.15,Content Writing,Gemini 1.5,High
+446,174,152,78.12,Coding,Llama 3,Low
+447,130,2,9.0,Marketing,Gemini 1.5,Low
+448,139,148,87.6,Data Analysis,GPT-4o,High
+449,195,20,18.56,SQL,Claude 3.5,Low
+450,102,163,75.57,SQL,Mistral Large,Medium
+451,130,164,27.12,Content Writing,Gemini 1.5,Medium
+452,189,62,48.69,Data Analysis,Gemini 1.5,Medium
+453,194,42,7.69,Coding,Llama 3,Medium
+454,188,16,56.55,Content Writing,GPT-4o,High
+455,196,184,41.24,Data Analysis,GPT-4o,Medium
+456,151,198,82.64,SQL,Mistral Large,High
+457,17,146,25.09,SQL,Llama 3,Medium
+458,191,123,34.6,SQL,Llama 3,Medium
+459,140,191,18.75,Research,Claude 3.5,Low
+460,177,91,38.06,Content Writing,Gemini 1.5,Medium
+461,119,119,41.79,Marketing,Llama 3,Medium
+462,7,36,71.37,Content Writing,Claude 3.5,Medium
+463,94,4,40.23,Data Analysis,Claude 3.5,Low
+464,152,48,21.1,Coding,Llama 3,Medium
+465,39,70,31.68,Coding,Llama 3,Medium
+466,41,78,75.02,Research,Gemini 1.5,Low
+467,49,125,55.4,Content Writing,Llama 3,Medium
+468,41,125,87.28,Coding,Gemini 1.5,Low
+469,18,83,64.13,Research,Gemini 1.5,Low
+470,61,133,85.01,Marketing,Llama 3,Medium
+471,4,79,57.57,SQL,Gemini 1.5,High
+472,159,110,55.82,Research,Claude 3.5,High
+473,73,88,65.78,Data Analysis,Claude 3.5,Medium
+474,145,122,7.55,Content Writing,Gemini 1.5,Medium
+475,64,54,85.12,Data Analysis,Claude 3.5,Medium
+476,163,122,71.24,Research,Gemini 1.5,High
+477,85,179,19.11,Marketing,Gemini 1.5,High
+478,147,59,64.31,Research,Claude 3.5,Low
+479,126,145,43.34,Coding,Gemini 1.5,High
+480,25,99,68.02,Research,Gemini 1.5,Low
+481,136,126,42.72,Data Analysis,Gemini 1.5,Low
+482,116,100,70.41,SQL,Claude 3.5,Medium
+483,200,16,43.69,Marketing,GPT-4o,Medium
+484,92,159,44.46,Marketing,Gemini 1.5,Medium
+485,125,81,55.22,Research,Claude 3.5,High
+486,49,153,55.25,SQL,GPT-4o,High
+487,50,135,72.3,SQL,Claude 3.5,Medium
+488,109,180,74.04,Coding,Gemini 1.5,Medium
+489,53,37,28.06,Coding,Llama 3,Low
+490,95,120,70.27,Marketing,Llama 3,High
+491,98,143,15.81,Content Writing,Gemini 1.5,Low
+492,71,117,26.28,Data Analysis,Mistral Large,Medium
+493,73,42,53.61,SQL,GPT-4o,Low
+494,14,84,50.63,SQL,Claude 3.5,Medium
+495,185,97,50.41,Data Analysis,Llama 3,High
+496,83,102,17.66,Research,GPT-4o,High
+497,73,83,51.77,Research,GPT-4o,High
+498,15,186,65.12,Marketing,Llama 3,Low
+499,18,36,15.34,Research,Claude 3.5,High
+500,61,24,68.41,SQL,Gemini 1.5,Low
+501,106,88,68.07,Content Writing,Llama 3,High
+502,16,135,38.64,Content Writing,Claude 3.5,High
+503,23,54,41.47,Coding,Gemini 1.5,Low
+504,62,15,58.74,Research,GPT-4o,Low
+505,165,179,21.85,Coding,GPT-4o,Low
+506,195,60,85.6,Marketing,Mistral Large,Medium
+507,83,100,68.52,Data Analysis,Llama 3,Low
+508,131,196,27.49,Coding,Llama 3,High
+509,18,11,19.61,Coding,Claude 3.5,Low
+510,150,126,2.63,Data Analysis,GPT-4o,High
+511,95,131,81.07,Marketing,Llama 3,Low
+512,39,138,2.65,Data Analysis,Mistral Large,Medium
+513,69,143,34.94,Content Writing,Claude 3.5,Low
+514,194,156,24.55,Marketing,Gemini 1.5,Medium
+515,101,31,59.24,Content Writing,GPT-4o,Medium
+516,155,167,61.12,Content Writing,Claude 3.5,Low
+517,29,11,36.1,Coding,Claude 3.5,Low
+518,195,146,66.74,SQL,Claude 3.5,High
+519,78,93,42.81,Data Analysis,Claude 3.5,High
+520,65,56,46.98,SQL,GPT-4o,Low
+521,47,86,20.16,Data Analysis,Llama 3,High
+522,84,118,88.61,Research,Claude 3.5,Medium
+523,123,144,54.51,Data Analysis,Claude 3.5,Low
+524,158,28,79.83,Coding,Mistral Large,Low
+525,3,71,83.85,SQL,Llama 3,Medium
+526,187,146,86.59,Coding,GPT-4o,Medium
+527,56,166,18.79,Content Writing,Gemini 1.5,Low
+528,72,107,59.52,SQL,GPT-4o,Low
+529,78,37,25.12,Marketing,GPT-4o,High
+530,191,175,71.76,Content Writing,Claude 3.5,Low
+531,29,23,65.78,Content Writing,Mistral Large,High
+532,143,70,25.77,Data Analysis,Mistral Large,Medium
+533,17,188,62.88,Marketing,GPT-4o,Medium
+534,174,97,4.63,Content Writing,Llama 3,Medium
+535,106,45,87.62,Research,GPT-4o,High
+536,17,198,79.12,Data Analysis,Gemini 1.5,High
+537,123,52,72.57,Coding,Gemini 1.5,Low
+538,61,177,41.42,Coding,GPT-4o,High
+539,112,144,85.79,Content Writing,Claude 3.5,High
+540,191,13,27.21,Coding,Mistral Large,Medium
+541,117,121,49.92,SQL,Gemini 1.5,High
+542,142,139,14.82,Data Analysis,Gemini 1.5,Medium
+543,45,149,37.36,Content Writing,Gemini 1.5,Medium
+544,38,173,68.15,Content Writing,Mistral Large,Medium
+545,93,111,9.61,SQL,Claude 3.5,Medium
+546,92,166,43.06,Research,Claude 3.5,Low
+547,88,130,82.81,Data Analysis,Claude 3.5,High
+548,88,139,57.68,Data Analysis,Claude 3.5,High
+549,36,53,74.57,Content Writing,GPT-4o,Medium
+550,29,129,49.87,Research,GPT-4o,High
+551,2,66,84.24,Data Analysis,Claude 3.5,High
+552,59,176,64.46,SQL,Llama 3,Low
+553,84,188,75.61,SQL,Mistral Large,Medium
+554,134,169,74.1,Marketing,Mistral Large,Medium
+555,192,105,62.53,Coding,Claude 3.5,High
+556,165,117,15.7,Data Analysis,Claude 3.5,High
+557,1,130,72.39,Content Writing,Claude 3.5,Low
+558,178,79,23.28,Content Writing,Gemini 1.5,Low
+559,139,164,10.5,Marketing,GPT-4o,Low
+560,8,76,12.65,Marketing,GPT-4o,Low
+561,65,116,85.69,Content Writing,Gemini 1.5,High
+562,104,3,63.41,SQL,Gemini 1.5,Medium
+563,96,54,28.73,Research,Mistral Large,Medium
+564,163,158,54.21,Data Analysis,Llama 3,Low
+565,128,82,32.93,SQL,Llama 3,Medium
+566,193,138,69.74,Content Writing,Mistral Large,High
+567,90,176,45.15,Coding,Llama 3,Low
+568,125,195,81.72,Content Writing,Gemini 1.5,High
+569,24,22,23.59,Data Analysis,GPT-4o,Medium
+570,98,192,31.69,Research,Llama 3,Low
+571,83,80,50.63,Data Analysis,Llama 3,Low
+572,158,106,10.36,Data Analysis,Claude 3.5,High
+573,173,200,4.48,Research,Llama 3,Low
+574,129,47,42.76,Data Analysis,Mistral Large,Medium
+575,138,168,65.74,SQL,Mistral Large,Low
+576,179,133,45.22,Content Writing,Gemini 1.5,Low
+577,11,75,54.9,Content Writing,GPT-4o,High
+578,40,20,19.52,Content Writing,Claude 3.5,Low
+579,100,199,67.52,Data Analysis,Claude 3.5,Medium
+580,12,78,18.08,SQL,Mistral Large,Medium
+581,59,183,41.13,Data Analysis,GPT-4o,Low
+582,43,36,13.62,Research,Mistral Large,Low
+583,113,128,34.27,Data Analysis,Llama 3,Low
+584,182,135,81.0,SQL,Mistral Large,Low
+585,108,122,4.95,Content Writing,Mistral Large,High
+586,109,18,7.74,SQL,Gemini 1.5,Medium
+587,103,130,82.9,Marketing,GPT-4o,Low
+588,42,23,52.2,Data Analysis,Claude 3.5,Medium
+589,169,140,34.85,SQL,Llama 3,Low
+590,169,48,53.23,Coding,Mistral Large,Low
+591,60,52,14.97,Marketing,Llama 3,Low
+592,96,16,46.9,Coding,GPT-4o,High
+593,171,69,53.53,Coding,Gemini 1.5,Low
+594,82,63,77.73,Marketing,Claude 3.5,High
+595,122,123,44.13,Coding,Claude 3.5,Medium
+596,142,163,57.18,Coding,Claude 3.5,High
+597,33,131,14.8,Coding,Llama 3,High
+598,19,145,16.5,Data Analysis,Llama 3,High
+599,93,58,74.86,Content Writing,GPT-4o,Medium
+600,11,83,70.7,Coding,Claude 3.5,High
